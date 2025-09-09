@@ -1,6 +1,6 @@
 ## Heya
 
-I like reverse engineering, game dev and data analysis and I'm **currently** bad at all of them :D 
+I like reverse engineering, game dev and data analysis!
 
 cool projects arriving soon ™
 
